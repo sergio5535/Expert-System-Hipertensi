@@ -1,0 +1,29 @@
+.container-fluid {
+    display: flex;
+    background-image: linear-gradient(to top, pink, white);
+}
+
+.hr {
+    background-color: gray;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar-p {
+    font-size: xx-large;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.navbar-right {
+    display: flex;
+    margin: auto;
+}
+
+.navbar {
+}
