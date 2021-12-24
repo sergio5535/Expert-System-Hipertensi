@@ -1,2 +1,7 @@
 # Expert System Hypertension
-sistem pakar hipertensi berbasis web
+Sistem pakar hipertensi berbasis web
+
+# Tech
+PHP
+HTML
+CSS
